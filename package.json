@@ -1,0 +1,26 @@
+{
+  "name": "@bastionfold/aion",
+  "version": "0.1.0",
+  "description": "Sovereign local AI agent and voicemail hub by Bastion Fold LLC",
+  "bin": {
+    "aion": "./bin/aion.js"
+  },
+  "main": "./bin/aion.js",
+  "keywords": [
+    "ai",
+    "agent",
+    "local-ai",
+    "ollama",
+    "voicemail",
+    "bastionfold"
+  ],
+  "author": "Alexander Sorrell <founder-alexander-sorrell@bastionfold.onworkspace.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BastionFold/aion.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
